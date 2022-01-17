@@ -9,9 +9,12 @@ letter-spacing: 1px;
 }
 
 body{
-min-height: 100%;
-background-image: url('../images/art.jpg') no-repeat !important ;
+
+background: url("../images/art.jpg") no-repeat center bottom/cover;
+  height: 100vh;
 background-color: #cccccc;
+
+
 }
 
 h1{
