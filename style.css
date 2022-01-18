@@ -11,8 +11,9 @@ letter-spacing: 1px;
 body{
 
 background-color: #cccccc;
-
-
+background-position: center center;
+background-size: cover; 
+background-attachement: fixed;
 }
 
 h1{
